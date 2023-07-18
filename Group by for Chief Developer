@@ -1,0 +1,1 @@
+df.groupby('Chief developer, company').size()
