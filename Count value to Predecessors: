@@ -1,0 +1,1 @@
+df['predecessor(s)'].value_counts()
