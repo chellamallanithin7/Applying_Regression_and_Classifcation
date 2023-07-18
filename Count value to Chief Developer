@@ -1,0 +1,1 @@
+df['Chief developer, company'].value_counts()
