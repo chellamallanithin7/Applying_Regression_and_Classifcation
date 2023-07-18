@@ -1,0 +1,18 @@
+I took dataset from www.Kaggle.com, the data is about Programming
+Language that Includes S.no, Year, Chief Developer, etc.
+I have to Apply Exploratory Data Analysis on this Data Set Then I
+performed so many things On that data, They are:
+ Import pandas to my data
+ Dataset shape
+ Dataset size
+ Dataset info
+ Dataset sum
+ Dataset Unique
+ Import Seaborn to my data
+ Count plot to Chief Developer
+ Count Plot to Predecessors
+ Count value to Chief Developer
+ Count Value to Predecessors
+ Moreover, I done group by for Chief Developer
+I Performed above Furnished Analysis on my Dataset Successfully Without
+Errors.
